@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "entries": [
+    "essentiallyemerald:emerald_sword_in_village_weaponsmith",
+    "essentiallyemerald:emerald_axe_in_village_weaponsmith",
+
+    "essentiallyemerald:emerald_pickaxe_in_village_toolsmith",
+    "essentiallyemerald:emerald_shovel_in_village_toolsmith",
+
+    "essentiallyemerald:emerald_helmet_in_village_armorer",
+
+    "essentiallyemerald:emerald_axe_in_pillager_outpost",
+    "essentiallyemerald:emerald_boots_in_pillager_outpost",
+
+    "essentiallyemerald:emerald_hoe_in_woodland_mansion",
+    "essentiallyemerald:emerald_chestplate_in_woodland_mansion",
+
+    "essentiallyemerald:emerald_hoe_in_ancient_city",
+    "essentiallyemerald:emerald_leggings_in_ancient_city"
+  ]
+}

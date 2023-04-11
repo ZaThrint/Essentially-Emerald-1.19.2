@@ -1,0 +1,10 @@
+{
+  "type": "essentiallyemerald:emerald_axe_in_pillager_outpost",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:chests/pillager_outpost"
+    }
+  ],
+  "item": "essentiallyemerald:emerald_axe"
+}

@@ -1,0 +1,10 @@
+{
+  "type": "essentiallyemerald:emerald_chestplate_in_woodland_mansion",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:chests/woodland_mansion"
+    }
+  ],
+  "item": "essentiallyemerald:emerald_chestplate"
+}
